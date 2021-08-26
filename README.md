@@ -12,11 +12,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -77,9 +75,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - Shubhodiya(https://shubhodiya.github.io/cv/)
-- Frontend Mentor - @Shubhodiya(https://www.frontendmentor.io/profile/Shubhodiya)
-- Twitter - @shubhodiya(https://www.twitter.com/shubhodiya)
+- Website - [Shubhodiya](https://shubhodiya.github.io/cv/)
+- Frontend Mentor - [@Shubhodiya](https://www.frontendmentor.io/profile/Shubhodiya)
+- Twitter - [@shubhodiya](https://www.twitter.com/shubhodiya)
 
 
 
